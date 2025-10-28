@@ -5,6 +5,7 @@ Through a functional prototype developed in Figma, the platform demonstrates how
 
 The main objective is to optimize the information flow and enhance the quality of care, reducing waiting times and helping professionals better understand the patient’s eating behavior in advance.
 
+-------------------------------------------------------------------------------
 ## Development Team
 
 Erik Guilherme Honorio de Souza – Team Leader / Interface Designer
@@ -19,11 +20,13 @@ Felipe Araújo – Support and Testing
 
 Each member contributed to research, ideation, and interface design to ensure that the proposed solution is intuitive, inclusive, and functional within the scope of digital prototyping.
 
+---------------------------------------------------------------------------------------
 ## Technology Used
 
 Figma – Used for prototyping, wireframing, and interface design.
 This tool allowed the team to visually represent user flows, define system architecture, and create an interactive prototype to simulate the platform’s navigation and usability.
 
+-----------------------------------------------------------------------------
 ## How to Use
 
 Access the Prototype
