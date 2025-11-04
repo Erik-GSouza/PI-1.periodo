@@ -1,33 +1,33 @@
-# 🧩 Overview: XXX – Nutritional Support for People with Autism Spectrum Disorder (ASD)
+# <h1 align="center"> 🧩 Overview: XXX – Nutritional Support for People with Autism Spectrum Disorder (ASD)
 
-### :rocket: The XXX project aims to improve communication between caregivers and healthcare professionals involved in the care of individuals with Autism Spectrum Disorder (ASD).
+### :rocket: The XXX project aims to improve communication between caregivers and healthcare professionals involved in the care of <ins>individuals with Autism Spectrum Disorder (ASD). </ins>
 Through a functional prototype developed in Figma, the platform demonstrates how caregivers could register the patient’s daily meals, track food acceptance or refusal, and share this data with professionals before medical appointments.
 
 The main objective is to optimize the information flow and enhance the quality of care, reducing waiting times and helping professionals better understand the patient’s eating behavior in advance.
 
 
-## :pencil: Development Team
+## :pencil: `Development Team` 
 
-**Erik Guilherme Honorio de Souza** – *Scrum master*
+**Erik Guilherme Honorio de Souza** – *Team Leader / Interface Designer*
 
-**Gabrielle Mendes** – *Designer*
+**Gabrielle Mendes** – *UX Researcher*
 
-**Louise Martins Pereira** – *Back-End*
+**Louise Martins Pereira** – *Prototype Designer*
 
-**Beatriz Borba Prazim** – *Front-End*
+**Beatriz Borba Prazim** – *Documentation Writer*
 
-**Felipe Araújo** – *Researcher*
+**Felipe Araújo** – *Support and Testing*
 
 Each member contributed to research, ideation, and interface design to ensure that the proposed solution is intuitive, inclusive, and functional within the scope of digital prototyping.
 
 
-## :computer: Technology Used
+## :computer: `Technology Used`
 
 **Figma** – Used for prototyping, wireframing, and interface design.
 This tool allowed the team to visually represent user flows, define system architecture, and create an interactive prototype to simulate the platform’s navigation and usability.
 
 
-## :star: How to Use
+## :star: `How to Use`
 
 **1. Access the Prototype**
 
@@ -60,3 +60,6 @@ This tool allowed the team to visually represent user flows, define system archi
 **5. Prototype Exploration**
 
 *Use clickable areas to navigate between screens and experience how the final application would function.*
+
+    
+
